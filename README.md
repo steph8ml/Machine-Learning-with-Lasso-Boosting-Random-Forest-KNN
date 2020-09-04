@@ -1,0 +1,2 @@
+# Machine-Learning-with-Lasso-Boosting-Random-Forest-KNN
+In this Notebook I will describe the techniques used to analyze and discuss the following questions:  Main Question:  Can we accurately predict temperature levels based on water features such as Salinity and Depth? How accurate, precise, or useful are these predictions?  Sub Questions: What is the relationship between Temperature and the following features: Salinity, Depth, Oxygen Mixing Ration and Pressure? Which features have a higher impact on Temperature than others? Supplementary Jupyter Notebook: “Bottle.ipynb” 
